@@ -1,0 +1,16 @@
+{
+  "name": "@eofol-lib/service-worker",
+  "version": "0.0.0",
+  "private": true,
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "@eofol-lib/is-browser": "file:../is-browser"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
