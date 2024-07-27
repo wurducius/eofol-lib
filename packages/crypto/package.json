@@ -4,6 +4,9 @@
   "private": true,
   "main": "dist/index.js",
   "module": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
   "files": [
     "dist"
   ],
